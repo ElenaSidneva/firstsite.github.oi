@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(244, 239, 242);
+}
+table{
+    text-align: left;
+}
+td{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+header{
+    color: brown;
+    text-align: center;
+    font-size: 40pt;
+    font-family: cursive;
+    
+    
+}
+h2{
+    color: rgb(12, 141, 181);
+    text-align: center;
+    width:1300px;
+    
+}
+p{
+    width:1300px;
+    text-align: justify;   
+}
+a:link{
+    color: rgb(0, 208, 255);
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(255, 0, 204);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 128, 107);
+    text-decoration: underline;
+}
+a:active{
+    color: rgb(255, 174, 0);
+    text-decoration: none;
+}
+
+form{
+    float:right;
+}
+#left{
+	width:200px;	
+    height: 1300px;
+	background-color:#f2947c;
+	float:left;
+
+#right{
+    width:1300px;
+	background-color: blue;
+}
